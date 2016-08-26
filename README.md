@@ -7,4 +7,4 @@ vaibhav here, making changes to the master readme file.
 changes from local ubuntu machine.
 ----
 
-changes made from github.com. This should be available on local machine magically.
+changes made from https://github.com This should be available on local machine magically.
